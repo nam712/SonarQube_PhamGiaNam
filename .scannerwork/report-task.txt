@@ -1,0 +1,6 @@
+projectKey=product-management
+serverUrl=http://localhost:9000
+serverVersion=25.6.0.109173
+dashboardUrl=http://localhost:9000/dashboard?id=product-management
+ceTaskId=763f2819-d53d-4ec7-83fb-f2019d41237c
+ceTaskUrl=http://localhost:9000/api/ce/task?id=763f2819-d53d-4ec7-83fb-f2019d41237c
